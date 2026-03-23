@@ -4,7 +4,7 @@
 
 - 📫 Email **mayalaidler@gmail.com**
 
-- <a href="https://maya-laidler-resume.vercel.app/" text>My resume</a> 
+- <h3 align="left"> <a href="https://maya-laidler-resume.vercel.app/" text>My resume</a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
